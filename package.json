@@ -11,7 +11,7 @@
     "@babel/runtime": "^7.8.3",
     "jquery": "^3.4.1",
     "meteor-node-stubs": "^1.0.0",
-    "mongoose": "^5.9.20"
+    "mongoose": "^5.13.15"
   },
   "meteor": {
     "mainModule": {
